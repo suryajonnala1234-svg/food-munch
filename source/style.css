@@ -1,0 +1,84 @@
+.food-munch-logo {
+    height: 70px;
+}
+
+#navItem1 a,
+#navItem2 a,
+#navItem3 a,
+#navItem4 a {
+    color: #323f4b !important;
+    font-family: "Roboto";
+}
+
+.banner-section-bg-container {
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: white;
+    font-weight: 300;
+}
+
+.banner-paragraph {
+    color: #f5f7fa;
+    font-size: 24px;
+}
+
+.custom-button {
+    background-color: #d0b200;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.custom-button:hover {
+    background-color: #bfa200;
+}
+
+.custom-outline-button {
+    border: 1px solid #d0b200;
+    color: #d0b200;
+    background: transparent;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+.custom-outline-button:hover {
+    background-color: #d0b200;
+    color: white;
+}
+
+.wcu-card {
+    border: 1px solid #e5eaf4;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.wcu-card-image {
+    height: 90px;
+}
+
+.menu-item-image {
+    width: 100%;
+    border-radius: 16px;
+}
+
+.menu-item-card {
+    border-radius: 16px;
+}
+
+.delivery-section-img {
+    width: 270px;
+}
+
+.payment-img {
+    width: 50px;
+    margin-right: 15px;
+}
+
+.gift-section-bg-container {
+    background-color: #f9fbfe;
+}
